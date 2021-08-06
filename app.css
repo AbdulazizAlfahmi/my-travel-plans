@@ -10,6 +10,9 @@ html {
 }
 
 body {
+    .destination:hover h2 {
+    transform: rotate(0deg);
+}
     display: flex;
     margin: 0;
     height: 100%;
